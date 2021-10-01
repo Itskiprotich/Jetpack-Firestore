@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415478626567",
+    "project_id": "jetpack-compose-6aad1",
+    "storage_bucket": "jetpack-compose-6aad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415478626567:android:1e2fb1e7c43c8e3e2a6da2",
+        "android_client_info": {
+          "package_name": "com.imeja.jetpackfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415478626567-s7nmsdbogj5k4jtt1ut5e4hkq7jrtpp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1EAlBU687L2hHbKr1t8Zr7xWl7yyIIkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415478626567-s7nmsdbogj5k4jtt1ut5e4hkq7jrtpp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
